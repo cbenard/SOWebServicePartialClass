@@ -12,4 +12,4 @@ This demonstrates the following:
  
 Remember to add the same references needed by the project hosting the service reference to the using projects, or it won't compile. This solution is a good, working example.
 
--- [Chris Benard](http://chrisbenard.net?rel=author)
+-- [Chris Benard](https://plus.google.com/u/0/114529083558994158010/?rel=author)

@@ -1,7 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 using ServiceProject.WeatherService;
 
-namespace SeparateProjectExample
+namespace AnotherServiceUser
 {
     class Program
     {
